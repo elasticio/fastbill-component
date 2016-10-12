@@ -1,8 +1,8 @@
-# fasbill-component [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# fastbill-component [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > elastic.io component that speaks to Fastbill API
 
-# fasbill-component
-Fasbill component for the [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;)
+# fastbill-component
+fastbill component for the [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;)
 
 If you plan to **deploy it into [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;) you must follow sets of instructions to succseed**. 
 
@@ -38,9 +38,9 @@ $ git push elasticio master
 Apache-2.0 © [elastic.io GmbH](http://elastic.io)
 
 
-[npm-image]: https://badge.fury.io/js/fasbill-component.svg
-[npm-url]: https://npmjs.org/package/fasbill-component
-[travis-image]: https://travis-ci.org/elasticio/fasbill-component.svg?branch=master
-[travis-url]: https://travis-ci.org/elasticio/fasbill-component
-[daviddm-image]: https://david-dm.org/elasticio/fasbill-component.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/elasticio/fasbill-component
+[npm-image]: https://badge.fury.io/js/fastbill-component.svg
+[npm-url]: https://npmjs.org/package/fastbill-component
+[travis-image]: https://travis-ci.org/elasticio/fastbill-component.svg?branch=master
+[travis-url]: https://travis-ci.org/elasticio/fastbill-component
+[daviddm-image]: https://david-dm.org/elasticio/fastbill-component.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/elasticio/fastbill-component
