@@ -2,9 +2,9 @@
 > elastic.io component that speaks to Fastbill API
 
 # fasbill-component
-&gt; Fasbill component for the [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;)
+Fasbill component for the [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;)
 
-&lt;%- componentDescription -&gt;. If you plan to **deploy it into [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;) you must follow sets of instructions to succseed**. 
+If you plan to **deploy it into [elastic.io platform](http://www.elastic.io &#34;elastic.io platform&#34;) you must follow sets of instructions to succseed**. 
 
 ## Before you Begin
 
@@ -12,7 +12,7 @@ Before you can deploy any code into elastic.io **you must be a registered elasti
 
 We&#39;ll use git and SSH public key authentication to upload your component code, therefore you must **[upload your SSH Key](http://docs.elastic.io/docs/ssh-key)**. 
 
-&gt; If you fail to upload you SSH Key you will get **permission denied** error during the deployment.
+If you fail to upload you SSH Key you will get **permission denied** error during the deployment.
 
 ## Getting Started
 
