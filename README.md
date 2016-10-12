@@ -40,7 +40,7 @@ Apache-2.0 © [elastic.io GmbH](http://elastic.io)
 
 [npm-image]: https://badge.fury.io/js/fasbill-component.svg
 [npm-url]: https://npmjs.org/package/fasbill-component
-[travis-image]: https://travis-ci.org//fasbill-component.svg?branch=master
-[travis-url]: https://travis-ci.org//fasbill-component
-[daviddm-image]: https://david-dm.org//fasbill-component.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//fasbill-component
+[travis-image]: https://travis-ci.org/elasticio/fasbill-component.svg?branch=master
+[travis-url]: https://travis-ci.org/elasticio/fasbill-component
+[daviddm-image]: https://david-dm.org/elasticio/fasbill-component.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/elasticio/fasbill-component
