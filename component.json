@@ -14,5 +14,15 @@
         "viewClass": "TextFieldView"
       }
     }
+  },
+  "actions": {
+    "upsertCustomer": {
+      "title": "Upsert Customer",
+      "main": "./lib/actions/upsertCustomer.js",
+      "metadata": {
+        "in": "./lib/schemas/upsertCustomer.in.json",
+        "out": "./lib/schemas/upsertCustomer.out.json"
+      }
+    }
   }
 }
