@@ -1,0 +1,13 @@
+{
+  "title": "Fasbill",
+  "description": "elastic.io component that speaks to Fastbill API",
+  "credentials": {
+    "fields": {
+      "name": {
+        "label": "My API Key",
+        "required": true,
+        "viewClass": "TextFieldView"
+      }
+    }
+  }
+}
